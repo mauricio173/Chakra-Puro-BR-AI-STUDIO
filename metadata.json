@@ -1,0 +1,8 @@
+{
+  "name": "Chakra Puro BR — AI Video Studio",
+  "description": "Plataforma inteligente de produção audiovisual com IA para roteirização, cenas, prompts visuais, animação YouTube Create, narração, thumbnail, SEO, auditoria de qualidade e exportação DOCX/XLSX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
